@@ -1,0 +1,13 @@
+Package: finnaginstest
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Finnagin", "W", email = "finnagin@example.com", role = c("aut", "cre"))
+Description: Helps me learn how to use R
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports:
+  ggplot2 (>= 2.1.0),
+  jsonlite (>= 1.0),
+  curl (>= 0.9.7)
