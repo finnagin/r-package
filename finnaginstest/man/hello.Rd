@@ -2,7 +2,7 @@
 % Please edit documentation in R/hello.R
 \name{hello}
 \alias{hello}
-\title{Prints hello world}
+\title{Prints 'Hello, world!'}
 \usage{
 hello()
 }
@@ -10,6 +10,6 @@ hello()
 hello world
 }
 \description{
-Prints hello world
+Prints 'Hello, world!'
 }
 

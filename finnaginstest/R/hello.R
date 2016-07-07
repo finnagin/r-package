@@ -15,19 +15,9 @@
 
 
 #' Prints 'Hello, world!'
-#' @param none
 #' @return hello world
 #' @export
 hello <- function() {
   print("Hello, world!")
-}
-
-
-#' Takes in a numeric value and squares it.
-#' @param x A numeric value to be squared
-#' @return The square of the input
-#' @export
-finnsq <- function(x) {
-  return(x^2)
 }
 
