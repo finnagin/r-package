@@ -8,6 +8,7 @@ License: TODO
 LazyData: TRUE
 RoxygenNote: 5.0.1
 Imports:
-  jsonlite (>= 1.0),
   httr (>= 1.2.1),
+  jsonlite (>= 1.0)
+Suggests:
   xml2 (>= 1.0.0)
