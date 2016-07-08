@@ -4,10 +4,10 @@ Title: R package to access the local framespace reference server
 Version: 0.1.1
 Authors@R: person("Finn", "W", email = "finnagin@example.com", role = c("aut", "cre"))
 Description: R retreves data stored on the reference server
-License: GPL-2
+License: TODO
 LazyData: TRUE
 RoxygenNote: 5.0.1
 Imports:
-  ggplot2 (>= 2.1.0),
   jsonlite (>= 1.0),
-  httr (>= 1.2.1)
+  httr (>= 1.2.1),
+  xml2 (>= 1.0.0)
